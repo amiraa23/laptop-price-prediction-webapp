@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+pymongo
+pandas
+numpy
+scikit-learn
+pydantic
+jinja2
+python-multipart
+matplotlib
+seaborn
+jupyter
+notebook
